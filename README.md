@@ -1,25 +1,16 @@
+## Personal Introduction
 
-# Bonjour, je suis Tam 👋
+# Hi there, I'm Tam 👋
 
-Développeur web en apprentissage, passionné par le frontend, la culture vietnamienne, et la musique.
+I'm a web developer and technology enthusiast based in Brussels, passionate about creating accessible and user-friendly digital experiences. With a background in PC and network technology, I'm currently deepening my skills in frontend development while exploring cloud technologies and modern web frameworks.
 
-## À propos de moi
-- 🔭 En ce moment, je développe mes compétences en HTML, CSS et JavaScript.
-- 🌱 J’apprends activement les frameworks modernes pour le web.
-- 👯 Je collabore sur des projets liés à la création de sites accessibles et esthétiques.
-- 🎮 Grand amateur de jeux vidéo, notamment Elder Scrolls Online.
-- 🍜 Passionné de cuisine asiatique et curieux de nouvelles recettes.
+## 🚀 About Me
 
-## Compétences techniques
-- Langages : HTML, CSS, notions de JavaScript
-- Outils : Git, GitHub, CodePen, Windows 11
-- Intérêts : typographie, design, technologies informatiques
-
-## Contact
-- 📫 Vous pouvez me joindre via tam-huynh@outlook.fr
-- 💬 N’hésitez pas à échanger sur le développement web ou la culture asiatique !
-
----
-
-Merci de visiter mon profil GitHub, au plaisir de collaborer ou d’en discuter !
-```
+🔭 I'm currently mastering **JavaScript**, **CSS Flexbox**, and **GitHub workflows**
+🌱 I'm learning advanced **CSS techniques**
+🎧 I'm listening to **Metallica**, **Green Day**, and **Vietnamese bolero** music
+🎮 I'm playing **Elder Scrolls Online** and exploring RPG game design
+🍜 I'm cooking **Vietnamese and Chinese cuisine**
+🧘 I practice **Buddhism** and value mindful presence in daily life
+💬 Ask me about **web development**, **horror films**, or **psychoanalysis**
+📫 How to reach me: tam-huynh@outlook.fr
